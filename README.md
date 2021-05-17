@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![cute](https://github.githubassets.com/images/mona-whisper.gif)
 
 <!--
