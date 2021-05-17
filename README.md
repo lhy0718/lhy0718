@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![cute](https://github.githubassets.com/images/mona-whisper.gif)
+
 <!--
 **lhy0718/lhy0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
