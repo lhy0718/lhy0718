@@ -54,6 +54,12 @@ Seongnam, Korea
 - 3rd Prize, 2022 AI Graduate School Challenge, LG
 - 3rd Prize, 2021 Text Ethics Verification Data Hackathon Competition, National Information Society Agency (NIA)
 
+## News
+
+- [중앙대, 싱가포르서 '안전한 AI' 외치다](https://www.newstheai.com/news/articleView.html?idxno=4656)
+- [LG, 과기정통부 '2022 인공지능대학원 심포지엄’ 주관사로 선정](https://www.getnews.co.kr/news/articleView.html?idxno=595660)
+- [ETRI 발명캠프서 최우수상 '삼발이'팀 차지](https://www.etnews.com/201310200156)
+
 ## Social
 
 - ✍️: https://lhy0718.github.io/ (under construction)
