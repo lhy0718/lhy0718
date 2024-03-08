@@ -10,6 +10,13 @@
 - Natural Language Processing
 - Document Understanding (Document AI)
 
+## Skills
+
+- Programming: Python, JAVA, C#, C++, C, JavaScript, HTML/CSS, Swift, etc.
+- Library/Framework: PyTorch, TensorFlow, HuggingFace, Pandas, scikit-learn, TensorFlow Lite, ONNX, WandB, NodeJS, Django, Flask, FastAPI, React, OpenGL etc.
+- Tool: Android Studio, Unity, VS Code, etc.
+- OS: Linux (Ubuntu), macOS, Windows, Raspberry Pi OS
+
 ## Education
 
 - `2024.03. -`
