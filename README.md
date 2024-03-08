@@ -70,5 +70,5 @@ Seongnam, Korea
 
 ## Social
 
-- ✍️: https://lhy0718.github.io/ (under construction)
-- 🤗: https://huggingface.co/lhy
+- ✍️: [https://lhy0718.github.io/](https://lhy0718.github.io/)
+- 🤗: [https://huggingface.co/lhy](https://huggingface.co/lhy)
