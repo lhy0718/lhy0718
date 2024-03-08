@@ -54,6 +54,12 @@ Seongnam, Korea
 - 3rd Prize, 2022 AI Graduate School Challenge, LG
 - 3rd Prize, 2021 Text Ethics Verification Data Hackathon Competition, National Information Society Agency (NIA)
 
+## R&D Projects
+
+- `2023.09 -` Automatic Generation of Children's Song Lyrics and Improvement of Lyric Quality Based on Large Language Model
+- `2023.03 -` Development of Integrated Development Framework that supports Automatic Neural Network Generation and Deployment optimized for Runtime Environment
+  - Cooperation Organization: ETRI (한국전자통신연구원)
+
 ## News
 
 - [중앙대, 싱가포르서 '안전한 AI' 외치다](https://www.newstheai.com/news/articleView.html?idxno=4656)
