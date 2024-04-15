@@ -1,5 +1,3 @@
-# Hanyong Lee - 이한용
-
 ## Introduction
 
 - Ph.D. student @ [CAU AutoML Lab](ml.cau.ac.kr)
