@@ -1,7 +1,7 @@
 ## Introduction
 
 - Hanyong Lee (이한용)
-- Ph.D. student @ [CAU AutoML Lab](ml.cau.ac.kr)
+- Ph.D. student @ [CAU AutoML Lab](http://ml.cau.ac.kr/)
 - I am currently studying Natural Language Processing (NLP).
 -  📧: glhy0718 at gmail
 
