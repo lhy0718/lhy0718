@@ -9,7 +9,7 @@
 
 - Artificial Intelligence
 - Natural Language Processing
-- Document Understanding (Document AI)
+- Dialogue Systems
 
 ## Skills
 
