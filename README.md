@@ -45,7 +45,7 @@ Seongnam, Korea
 
 ## Publications
 
-- **H. Lee**, C. Lee, Y. Lee, J. Lee "BitAbuse: A Dataset of Visually Perturbed Texts for Defending Phishing Attacks," *Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (**NAACL**)*, New Maxico, USA, 29 April – 4 May 2025. [🔗](https://arxiv.org/abs/2502.05225)
+- **H. Lee**, C. Lee, Y. Lee, J. Lee "BitAbuse: A Dataset of Visually Perturbed Texts for Defending Phishing Attacks," *Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (**NAACL 2025**)*, New Maxico, USA, 29 April – 4 May 2025. [🔗](https://arxiv.org/abs/2502.05225)
 - K. Kim, **H. Lee**, J. Lee "GoodGPT: Counseling-chat" *The 43rd IEEE Int. Conf. On Consumer Electronics (**ICCE 2025**)*, Las Vegas, USA, 11-14 January 2025.
 - C. Lee, **H. Lee**, K. Kim S. Kim and J. Lee "An Efficient Fine-Tuning of Generative Language Model for Aspect-Based Sentiment Analysis," *The 42nd IEEE Int. Conf. On Consumer Electronics (**ICCE 2024**)*, Las Vegas, USA, 5-8 January 2024.
 - **H. Lee** and J. Lee, “Exploitation of Character-Wise Language Model for Recovering Adversarial Text,” *International Conference on Electronics, Information, and Communication (**ICEIC 2023**)*, 2023.
