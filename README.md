@@ -59,8 +59,8 @@ Seongnam, Korea
 
 ## R&D Projects
 
-- `2023.09 -` Automatic Generation of Children's Song Lyrics and Improvement of Lyric Quality Based on Large Language Model
-- `2023.03 -` Development of Integrated Development Framework that supports Automatic Neural Network Generation and Deployment optimized for Runtime Environment
+- `2023.09 - 2024.12` Automatic Generation of Children's Song Lyrics and Improvement of Lyric Quality Based on Large Language Model
+- `2023.03 - 2024.12` Development of Integrated Development Framework that supports Automatic Neural Network Generation and Deployment optimized for Runtime Environment
   - Cooperation Organization: ETRI (한국전자통신연구원)
 
 ## News
