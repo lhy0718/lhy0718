@@ -65,6 +65,7 @@ Seongnam, Korea
 
 ## News
 
+- [이재성 교수 연구팀 NAACL(Annual Conference of the North American Chapter of the Association for Computational Linguistics) 2025 논문 게재 승인](https://ai.cau.ac.kr/sub07/sub0702.php?category=2&view=detail&no=2692&keyword=&search=title)
 - [중앙대, 싱가포르서 '안전한 AI' 외치다](https://www.newstheai.com/news/articleView.html?idxno=4656)
 - [LG, 과기정통부 '2022 인공지능대학원 심포지엄’ 주관사로 선정](https://www.getnews.co.kr/news/articleView.html?idxno=595660)
 - [ETRI 발명캠프서 최우수상 '삼발이'팀 차지](https://www.etnews.com/201310200156)
