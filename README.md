@@ -14,7 +14,7 @@
 ## Skills
 
 - **Programming**: Python, JAVA, C#, C++, C, JavaScript/TypeScript, HTML/CSS, Swift, etc.
-- **Library/Framework**: PyTorch, TensorFlow, HuggingFace, Pandas, scikit-learn, TensorFlow Lite, ONNX, WandB, NodeJS, NextJS, Django, Flask, FastAPI, React, OpenGL, etc.
+- **Library/Framework**: LangChain, LangGraph, OpenAI Agents, PyTorch, TensorFlow, HuggingFace, Pandas, scikit-learn, TensorFlow Lite, ONNX, WandB, NodeJS, NextJS, Django, Flask, FastAPI, React, OpenGL, etc.
 - **Tool**: Android Studio, Unity, VS Code, Vim, etc.
 - **OS**: Linux (Ubuntu), macOS, Windows, Raspberry Pi OS
 
