@@ -72,5 +72,6 @@ Seongnam, Korea
 
 ## Social
 
+- X: [@hanyong_lee_](https://x.com/hanyong_lee_)
 - ✍️: [https://lhy0718.github.io/](https://lhy0718.github.io/)
 - 🤗: [https://huggingface.co/lhy](https://huggingface.co/lhy)
