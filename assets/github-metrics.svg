@@ -1,0 +1,29 @@
+<svg width="720" height="360" viewBox="0 0 720 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub metrics placeholder</title>
+  <desc id="desc">A placeholder card shown until the GitHub Actions workflow generates the live metrics SVG.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="720" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="360" rx="28" fill="url(#bg)"/>
+  <rect x="24" y="24" width="672" height="312" rx="22" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.14"/>
+  <circle cx="82" cy="88" r="22" fill="#F59E0B"/>
+  <rect x="120" y="66" width="260" height="18" rx="9" fill="white" fill-opacity="0.92"/>
+  <rect x="120" y="96" width="190" height="12" rx="6" fill="white" fill-opacity="0.45"/>
+  <rect x="48" y="148" width="196" height="70" rx="18" fill="white" fill-opacity="0.08"/>
+  <rect x="262" y="148" width="196" height="70" rx="18" fill="white" fill-opacity="0.08"/>
+  <rect x="476" y="148" width="196" height="70" rx="18" fill="white" fill-opacity="0.08"/>
+  <rect x="48" y="236" width="624" height="56" rx="18" fill="white" fill-opacity="0.08"/>
+  <text x="48" y="314" fill="white" fill-opacity="0.72" font-family="Segoe UI, Arial, sans-serif" font-size="16">
+    Live metrics will appear here after the GitHub Actions workflow runs on the repository.
+  </text>
+  <text x="48" y="188" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">
+    GitHub Snapshot
+  </text>
+  <text x="48" y="268" fill="white" fill-opacity="0.88" font-family="Segoe UI, Arial, sans-serif" font-size="20">
+    Auto-generated static SVG for a more reliable profile README
+  </text>
+</svg>

@@ -112,30 +112,15 @@ Interested in Natural Language Processing, Dialogue Systems, and Trustworthy AI
 
 ## GitHub Snapshot
 
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=lhy0718&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=lhy0718&show_icons=true&hide_border=true&theme=default&rank_icon=github"
-      height="170"
-      alt="GitHub stats"
-    />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lhy0718&layout=compact&hide_border=true&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhy0718&layout=compact&hide_border=true&theme=default"
-      height="170"
-      alt="Top languages"
-    />
-  </picture>
-</div>
+<p align="center">
+  <a href="https://github.com/lhy0718">
+    <img src="./assets/github-metrics.svg" alt="GitHub metrics" width="720" />
+  </a>
+</p>
+
+<p align="center">
+  This card is generated automatically by GitHub Actions.
+</p>
 
 ## In the News
 
