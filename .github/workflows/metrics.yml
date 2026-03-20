@@ -24,10 +24,9 @@ jobs:
         with:
           # Use a Personal Access Token (PAT) stored as the GH_TOKEN secret.
           # Required scopes: read:user, public_repo (or repo for private repos).
-          # GITHUB_TOKEN (github.token) cannot verify user identity or clone
-          # other repositories, so language stats and other metrics would be
-          # incomplete or inaccurate.
-          token: ${{ secrets.GH_TOKEN }}
+          # Falls back to github.token if GH_TOKEN is not set, though some
+          # features (e.g., language indepth analysis) may be limited.
+          token: ${{ secrets.GH_TOKEN || github.token }}
           user: lhy0718
           filename: assets/github-metrics.svg
           committer_branch: main
