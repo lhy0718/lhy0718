@@ -3,7 +3,7 @@ name: GitHub Metrics
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 18 * * *"
   push:
     branches:
       - main
@@ -22,7 +22,12 @@ jobs:
       - name: Generate profile metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ github.token }}
+          # Use a Personal Access Token (PAT) stored as the GH_TOKEN secret.
+          # Required scopes: read:user, public_repo (or repo for private repos).
+          # GITHUB_TOKEN (github.token) cannot verify user identity or clone
+          # other repositories, so language stats and other metrics would be
+          # incomplete or inaccurate.
+          token: ${{ secrets.GH_TOKEN }}
           user: lhy0718
           filename: assets/github-metrics.svg
           committer_branch: main
